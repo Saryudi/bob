@@ -1,5 +1,5 @@
 # bob
-# https://tea.xyz/what-is-this-file
+# https://tea.xyz/bob
 ---
 version: 1.0.0
 codeOwners:
